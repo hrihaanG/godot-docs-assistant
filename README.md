@@ -72,7 +72,7 @@ Commands are for Windows PowerShell, which is what this was built and tested on.
 1. **Clone this repo and move into it.**
 
 ```
-git clone https://github.com/hrihaanG/godot-docs-rag.git
+git clone https://github.com/hrihaanG/godot-docs-assistant.git
 cd godot-docs-rag
 ```
 
